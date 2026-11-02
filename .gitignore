@@ -1,0 +1,11 @@
+# Данные скачиваются скриптом и в репозиторий не входят
+data/raw/
+data/processed/
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
